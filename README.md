@@ -7,7 +7,7 @@
 --- | --- | --- |
 Пищулов Сергей | ФТ-201 | <a href=https://github.com/SergeyPishchulov>SergeyPishchulov</a>
 Коновалов Артем | ФТ-201 | <a href=https://github.com/dabdya>dabdya</a>
-Львов Ярослав | ФТ-201 | <a href=https://github.com/mistralook>mistralook</a>
+Львов Ярослав | ФТ-201 | <a href=https://github.com/YaroslavBrachov>YaroslavBrachov</a>
 Князев Игорь | ФТ-201 | <a href=https://github.com/Knyazzini>Knyazzini</a>
 
 ## Описание
